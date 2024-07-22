@@ -1,0 +1,11 @@
+h1{
+    color:tomato;
+    display: inline;
+}
+div{
+    border: 1px solid;
+    display: inline;
+}
+.flex-container{
+ display:flex;
+}
