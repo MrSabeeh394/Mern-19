@@ -1,6 +1,11 @@
 h1{
-    color:tomato;
+    color:aqua;
     display: inline;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 900;
+    
+
 }
 div{
     border: 1px solid;
